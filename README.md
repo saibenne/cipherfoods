@@ -134,4 +134,4 @@ npm run docker:down     # Stop infrastructure
 
 ## License
 
-Proprietary — All rights reserved.
+
