@@ -36,7 +36,7 @@ graph TD
     
     %% Cross-cutting Auditor
     Architect -.->|Security Scan| Sec[Security Engineer]
-    Sec -.->|Audit Reports (Read-Only)| Architect
+    Sec -.->|Audit Reports - Read-Only| Architect
 ```
 
 ---
