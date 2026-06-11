@@ -2,6 +2,12 @@
 
 > Farmer-to-consumer eCommerce platform for traditional foods — delivering authentic farmer products from Telangana to your doorstep.
 
+## 🤖 Multi-Agent Development
+
+This project was built and is maintained using a **Multi-Agentic Software Engineering Team**. Instead of a single AI assistant, the repository contains a structured team of 15 specialized agents (e.g., Software Architect, Backend Engineer, Database Engineer, Security Engineer) that collaborate to write code, review designs, run tests, and audit security.
+
+For details on the agent roles, what they have done, and how to use them, see **[Multi-Agent Development Guide (README_AGENTS.md)](file:///c:/Users/sai/Desktop/cipherfoods-gpt/README_AGENTS.md)**.
+
 ## Architecture
 
 **Modular Monolith** built with NestJS, designed for a startup targeting 10K customers and 30-50 vendors.
